@@ -1,1 +1,1 @@
-Spliting data uisng python and clean and manege data
+Splitting data using python and clean and manage data
